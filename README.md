@@ -20,6 +20,10 @@
 </p>
 
 <p align="center">
+  <sub>Enlaces cortos para compartir o escribir en la tele: <a href="https://bit.ly/argos-tv-android">bit.ly/argos-tv-android</a> · <a href="https://bit.ly/argos-tv-android-tv">bit.ly/argos-tv-android-tv</a> · <a href="https://bit.ly/argos-tv-win">bit.ly/argos-tv-win</a></sub>
+</p>
+
+<p align="center">
   <sub>Todas las versiones y arquitecturas en <a href="https://github.com/davidmarquesrodriguez/argos-tv-releases/releases">Releases</a>.</sub>
 </p>
 
@@ -103,19 +107,19 @@
 ## 📲 Cómo instalar
 
 ### Android (móvil o tablet)
-1. Descarga **`ARGOS-TV-android-arm64-v8a.apk`** desde el móvil. Si tu móvil es antiguo (32 bits), usa `armeabi-v7a`.
+1. Descarga **`ARGOS-TV-android-arm64-v8a.apk`** desde el móvil: abre **[bit.ly/argos-tv-android](https://bit.ly/argos-tv-android)**. Si tu móvil es antiguo (32 bits), usa `armeabi-v7a`.
 2. Ábrelo y permite **«Instalar apps desconocidas»** cuando lo pida.
 
 ### Android TV / Google TV
-Muchas teles usan Android de 32 bits: descarga **`ARGOS-TV-android-armeabi-v7a.apk`**.
+Muchas teles usan Android de 32 bits: descarga **`ARGOS-TV-android-armeabi-v7a.apk`** ([bit.ly/argos-tv-android-tv](https://bit.ly/argos-tv-android-tv)).
 
-- **Con la app Downloader** (Google Play): activa *Fuentes desconocidas* para Downloader en *Ajustes → Apps → Seguridad y restricciones* y escribe el enlace del botón «Android TV» de arriba.
+- **Con la app Downloader** (Google Play): activa *Fuentes desconocidas* para Downloader en *Ajustes → Apps → Seguridad y restricciones* y escribe **`bit.ly/argos-tv-android-tv`**.
 - **Desde el ordenador** con ADB: activa las opciones de desarrollador en la tele (pulsa 7 veces *Ajustes → Sistema → Información → Compilación*) y la depuración, y ejecuta `adb connect IP-DE-LA-TELE` y `adb install ARGOS-TV-android-armeabi-v7a.apk`.
 
 > Las teles Samsung (Tizen) y LG (webOS) no usan Android: conecta un dispositivo Google TV o Fire TV al HDMI.
 
 ### Windows 10/11
-Descarga **`ARGOS-TV-windows-x64.zip`**, descomprímelo en una carpeta y abre **`argos.exe`**.
+Descarga **`ARGOS-TV-windows-x64.zip`** ([bit.ly/argos-tv-win](https://bit.ly/argos-tv-win)), descomprímelo en una carpeta y abre **`argos.exe`**.
 
 ### macOS
 Descarga **`ARGOS-TV-macos.zip`** y descomprímelo. La app no está firmada por Apple: la primera vez ábrela con **clic derecho → Abrir**. *Versión sin probar todavía.*
