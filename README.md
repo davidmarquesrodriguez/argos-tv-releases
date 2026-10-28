@@ -126,7 +126,12 @@ Cada versión, con sus cambios, está en [Releases](https://github.com/davidmarq
 ## 📄 Licencia
 © 2026 David Marqués Rodríguez. Todos los derechos reservados. Puedes instalar y usar las versiones publicadas aquí para uso personal y no comercial. El código fuente no es público.
 
-## ☕ Apoya el proyecto
-Si ARGOS TV te resulta útil, puedes invitarme a un café:
+## ❤️ Apoya ARGOS TV
 
-<a href="https://ko-fi.com/david_marques"><img src="https://img.shields.io/badge/Ko--fi-Inv%C3%ADtame%20a%20un%20caf%C3%A9-FF5E5B?logo=ko-fi&logoColor=white&style=for-the-badge" alt="Invítame a un café en Ko-fi"></a>
+<p align="center">
+  <a href="https://ko-fi.com/david_marques"><img src="assets/support_banner.png" width="720" alt="Apoya ARGOS TV: es gratis y sin anuncios. Invítame a un café en Ko-fi"></a>
+</p>
+
+<p align="center">
+  <a href="https://ko-fi.com/david_marques"><img src="https://img.shields.io/badge/Inv%C3%ADtame%20a%20un%20caf%C3%A9-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Invítame a un café en Ko-fi"></a>
+</p>
