@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/davidmarquesrodriguez/argos-tv-releases/releases/latest/download/ARGOS-TV-android-arm64-v8a.apk"><img src="https://img.shields.io/badge/Descargar-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Descargar para Android"></a>
-  <a href="https://github.com/davidmarquesrodriguez/argos-tv-releases/releases/latest/download/ARGOS-TV-android-armeabi-v7a.apk"><img src="https://img.shields.io/badge/Descargar-Android%20TV-00A8E1?style=for-the-badge&logo=androidtv&logoColor=white" alt="Descargar para Android TV y Google TV"></a>
+  <a href="https://github.com/davidmarquesrodriguez/argos-tv-releases/releases/latest/download/ARGOS-TV-android-armeabi-v7a.apk"><img src="https://img.shields.io/badge/Descargar-Android%20TV-00A8E1?style=for-the-badge&logo=googletv&logoColor=white" alt="Descargar para Android TV y Google TV"></a>
   <a href="https://github.com/davidmarquesrodriguez/argos-tv-releases/releases/latest/download/ARGOS-TV-windows-x64.zip"><img src="https://img.shields.io/badge/Descargar-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Descargar para Windows"></a>
   <a href="https://github.com/davidmarquesrodriguez/argos-tv-releases/releases/latest/download/ARGOS-TV-macos.zip"><img src="https://img.shields.io/badge/Descargar-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Descargar para macOS"></a>
 </p>
@@ -52,6 +52,53 @@
 <p align="center">
   <img src="assets/desktop_03_peliculas.png" width="860" alt="Películas">
 </p>
+
+## 📺 ¿Funciona en mi tele?
+
+> **La prueba rápida:** si tu tele tiene la tienda **Google Play** o es un **Fire TV**, ARGOS TV funciona. Si no, conecta un Google TV o Fire TV al HDMI y listo.
+
+<table>
+  <tr>
+    <th width="50%">✅ Funciona<br><sub>Android TV · Google TV · Fire TV</sub></th>
+    <th width="50%">❌ No funciona<br><sub>sistemas propios del fabricante</sub></th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <br>
+      <img src="https://img.shields.io/badge/Sony-Google%20TV-2EA043?style=for-the-badge&logo=sony&logoColor=white" alt="Sony">
+      <img src="https://img.shields.io/badge/TCL-Google%20TV-2EA043?style=for-the-badge" alt="TCL">
+      <img src="https://img.shields.io/badge/Philips-Android%20TV-2EA043?style=for-the-badge" alt="Philips">
+      <img src="https://img.shields.io/badge/Xiaomi-Google%20TV-2EA043?style=for-the-badge&logo=xiaomi&logoColor=white" alt="Xiaomi">
+      <img src="https://img.shields.io/badge/Sharp-Android%20TV-2EA043?style=for-the-badge&logo=sharp&logoColor=white" alt="Sharp">
+      <img src="https://img.shields.io/badge/Nokia-Android%20TV-2EA043?style=for-the-badge&logo=nokia&logoColor=white" alt="Nokia">
+      <img src="https://img.shields.io/badge/Hisense-Google%20TV*-2EA043?style=for-the-badge" alt="Hisense con Google TV">
+      <img src="https://img.shields.io/badge/Toshiba-Fire%20TV*-2EA043?style=for-the-badge&logo=toshiba&logoColor=white" alt="Toshiba con Fire TV">
+      <img src="https://img.shields.io/badge/Panasonic-Fire%20TV*-2EA043?style=for-the-badge&logo=panasonic&logoColor=white" alt="Panasonic con Fire TV">
+      <img src="https://img.shields.io/badge/Grundig-Fire%20TV*-2EA043?style=for-the-badge" alt="Grundig con Fire TV">
+      <br><br>
+      <b>Dispositivos para el HDMI</b><br><br>
+      <img src="https://img.shields.io/badge/Chromecast-Google%20TV-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chromecast con Google TV">
+      <img src="https://img.shields.io/badge/Google%20TV-Streamer-2EA043?style=for-the-badge&logo=google&logoColor=white" alt="Google TV Streamer">
+      <img src="https://img.shields.io/badge/Amazon-Fire%20TV%20Stick-2EA043?style=for-the-badge" alt="Amazon Fire TV Stick">
+      <img src="https://img.shields.io/badge/NVIDIA-Shield%20TV-2EA043?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Shield TV">
+      <br><br>
+      <sub>* Según el modelo: comprueba que tenga Google Play o sea Fire TV.</sub>
+    </td>
+    <td align="center" valign="top">
+      <br>
+      <img src="https://img.shields.io/badge/Samsung-Tizen-CF222E?style=for-the-badge&logo=samsung&logoColor=white" alt="Samsung (Tizen)">
+      <img src="https://img.shields.io/badge/LG-webOS-CF222E?style=for-the-badge&logo=lg&logoColor=white" alt="LG (webOS)">
+      <img src="https://img.shields.io/badge/Hisense%20%2F%20Toshiba-VIDAA-CF222E?style=for-the-badge" alt="Hisense o Toshiba con VIDAA">
+      <img src="https://img.shields.io/badge/Philips-Titan%20OS-CF222E?style=for-the-badge" alt="Philips con Titan OS">
+      <img src="https://img.shields.io/badge/Roku-Roku%20OS-CF222E?style=for-the-badge&logo=roku&logoColor=white" alt="Roku">
+      <img src="https://img.shields.io/badge/Apple%20TV-tvOS-CF222E?style=for-the-badge&logo=apple&logoColor=white" alt="Apple TV">
+      <br><br>
+      <b>💡 Solución:</b> conecta un <b>Google TV</b> o un <b>Fire TV Stick</b><br>al HDMI de la tele (desde unos 30 €)<br>e instala ARGOS TV en él.
+      <br><br>
+      <sub>Una versión nativa para Samsung y LG está en estudio.</sub>
+    </td>
+  </tr>
+</table>
 
 ## 📲 Cómo instalar
 
