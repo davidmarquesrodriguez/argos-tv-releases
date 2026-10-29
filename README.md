@@ -38,9 +38,10 @@
 
 - 📺 **Directo** con logo, programa actual y siguiente, guía completa por canal y **vista previa** que pasa a pantalla completa sin cortes.
 - 🎬 **Películas y series** con portada por categorías, fichas, temporadas y episodios.
+- 📥 **Descargas**: guarda películas y episodios para verlos **sin conexión**, eligiendo la versión (idioma, calidad y tamaño). Si se corta, continúa donde se quedó.
 - ⏯️ **Continuar viendo** y **Vistas**: retoma cada película o episodio donde lo dejaste.
 - 🔎 **Búsqueda instantánea** dentro de la categoría que estás viendo.
-- 👥 **Perfiles** con su propia lista, favoritos e historial.
+- 👥 **Perfiles** con avatar ilustrado y su propia lista, favoritos, historial y descargas.
 - 🌍 Español, català, English y français.
 - 🔒 Sin cuentas, sin anuncios y sin telemetría. Tu contraseña se guarda en el almacén seguro del sistema.
 
@@ -49,6 +50,7 @@
     <td><img src="assets/phone_01_perfiles.png" alt="Perfiles"></td>
     <td><img src="assets/phone_02b_directo_vista_previa.png" alt="Directo en el móvil"></td>
     <td><img src="assets/phone_03b_buscar.png" alt="Búsqueda"></td>
+    <td><img src="assets/phone_03d_descargas.png" alt="Descargas en el móvil"></td>
     <td><img src="assets/phone_05_sincronizando.png" alt="Primera descarga"></td>
   </tr>
 </table>
@@ -56,6 +58,17 @@
 <p align="center">
   <img src="assets/desktop_03_peliculas.png" width="860" alt="Películas">
 </p>
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/desktop_03c_ficha.png" alt="Ficha de película con Descargar"></td>
+    <td width="50%"><img src="assets/desktop_03d_descargas.png" alt="Descargas"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/desktop_01_perfiles.png" alt="Perfiles con avatares"></td>
+    <td width="50%"><img src="assets/desktop_04b_avatar.png" alt="Editor de avatar"></td>
+  </tr>
+</table>
 
 ## 📺 ¿Funciona en mi tele?
 
@@ -129,6 +142,8 @@ Cada versión, con sus cambios, está en [Releases](https://github.com/davidmarq
 
 ## 📄 Licencia
 © 2026 David Marqués Rodríguez. Todos los derechos reservados. Puedes instalar y usar las versiones publicadas aquí para uso personal y no comercial. El código fuente no es público.
+
+Los avatares de perfil son [«Critters» de DiceBear](https://www.dicebear.com/styles/critters/), con licencia [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) (dominio público).
 
 ## ❤️ Apoya ARGOS TV
 
