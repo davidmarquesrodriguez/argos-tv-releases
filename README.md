@@ -43,7 +43,7 @@
 - 🔎 **Búsqueda instantánea** dentro de la categoría que estás viendo.
 - 👥 **Perfiles** con avatar ilustrado y su propia lista, favoritos, historial y descargas.
 - 🌍 Español, català, English y français.
-- 🔒 Sin cuentas, sin anuncios y sin telemetría. Tu contraseña se guarda en el almacén seguro del sistema.
+- 🔒 Sin cuentas y sin anuncios. Al buscar actualizaciones, la app envía un número aleatorio de la instalación y datos generales (versión, sistema y su versión, tipo de dispositivo, idioma y país), solo para saber cuánta gente la usa y en qué equipos: nada de tu lista ni de tus canales, y la IP no se guarda. Tu contraseña se guarda en el almacén seguro del sistema.
 
 <table>
   <tr>
